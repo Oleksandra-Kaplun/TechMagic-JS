@@ -274,6 +274,7 @@ footer {
 
 /*---------------------------------------Media Queries*/
 @media (max-width: 1024px) {
+
     .info-wrap {
         grid-gap: 30px;
         padding: 40px 0 10px 0;
@@ -313,6 +314,7 @@ footer {
 }
 
 @media (max-width: 360px) {
+    
     .logo {
         flex-grow: 100;
         font-size: 2em;
